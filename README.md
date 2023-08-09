@@ -6,6 +6,7 @@ discord webhook tool (legal purpose only)
 # Download tutorial
 
 > Hookware supports python 3.8 +
+> 
 > Download and open the installator (automatic download pip's and hookware)
 
 # Faq
