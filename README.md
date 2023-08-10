@@ -16,3 +16,5 @@ https://hook-ware.club
 > skidding =  gay
 > 
 > hookware is full open source
+>
+> hookware virustotal scan: https://www.virustotal.com/gui/file/fba85feea6978d845ab0a72ca0327f26685d2cc5cb4a8dc9090e284b79e7e008?nocache=1
