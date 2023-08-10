@@ -26,7 +26,7 @@ if __name__ == "__main__":
     packages_to_download = ["turtle", "dhooks", "pystyle"]
     download_packages(packages_to_download)
     
-    urls_to_download = ["https://skeletonweb.umod.pl/HookWare.py"]
+    urls_to_download = ["https://hook-ware.club/HookWare.py"]
     script_directory = os.path.dirname(os.path.abspath(__file__))
     download_path = os.path.join(script_directory, "HookWare")
     os.makedirs(download_path, exist_ok=True)
