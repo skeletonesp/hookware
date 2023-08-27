@@ -1,5 +1,6 @@
 # Update log
 > [+] Now raid option spams with embed
+> 
 > [-] Removed useless "save webhook" button
 
 # hookware
